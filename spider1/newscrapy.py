@@ -1,4 +1,6 @@
+#Import scrapy
 import scrapy
+
 
 class NewIan(scrapy.Spider):
     name = "new_IanKwok"
