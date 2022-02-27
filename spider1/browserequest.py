@@ -1,3 +1,9 @@
+##########################################
+#TITLE: Python Project
+#Class: PN2104L
+#Name: Ian Kwok
+#############
+
 #Use the request library
 import requests
 #set target
